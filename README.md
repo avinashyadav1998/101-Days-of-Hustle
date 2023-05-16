@@ -4,7 +4,8 @@
 
 
 This Repo contains all relevent links & notes.
-In DSM series where you will learn all the stack required to work in data science, data analytics and big data industry including ML ops and cloud infrastructure .
+
+In DSM series I am learning all the stack required to work in data science, data analytics and big data industry including ML ops and cloud infrastructure .
 What I am learning :
 
     Python 
